@@ -11,3 +11,7 @@ python3.8.10 and pygame is required.
 使い方:
 1. git cloneする.
 2. $ python3 main.pyを実行.
+
+操作方法:
+↑↓キー: 自機の速度と高度が上昇します.
+←→キー: 自機の機種方位が変化します.
