@@ -36,7 +36,7 @@ class Game:
         self.pfd.draw(240,34000,360)
         self.player_group.update()
 
-        #self.create_traffic()
+        self.create_traffic()
 
-        #self.traffic_group.draw(self.screen)
-        #self.traffic_group.update()
+        self.traffic_group.draw(self.screen)
+        self.traffic_group.update()
